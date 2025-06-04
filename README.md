@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @corcorasgit (Shaun Corcoran)
-- 👀 I’m interested in Automation and Linux
-- 🌱 I’m currently learning python ansible linux asterisk 
+- 👀 I’m interested in Automation and Linux, python, django, networking (Voice and data)
+- 🌱 I’m currently learning python ansible, linux, asterisk, git, github, django, sip, and cloud
 
 
 <!---
